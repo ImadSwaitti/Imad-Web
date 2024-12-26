@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Products - Eau de Imad</title>
+    <link rel="stylesheet" href="style.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css" integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+<body>
+<!-- Header -->
+<header>
+    <div class="container">
+        <h1 class="logo"><a href="inx.html" aria-label="Eau de Imad Home">Eau de Imad</a></h1>
+        <nav>
+            <ul class="nav-menu">
+                <li><a href="inx.html" class="nav-link" aria-label="Navigate to Home">Home</a></li>
+                <li><a href="products.html" class="nav-link active" aria-label="Navigate to Products">Products</a></li>
+                <li><a href="about.html" class="nav-link" aria-label="Learn more About Us">About Us</a></li>
+                <li><a href="contact.html" class="nav-link" aria-label="Contact Us">Contact Us</a></li>
+            </ul>
+        </nav>
+    </div>
+</header>
+
+    <!-- Main Section -->
+    <main>
+        <div class="tabs">
+            <button class="tab-button active" data-category="all">All</button>
+            <button class="tab-button" data-category="men">Men Perfume</button>
+            <button class="tab-button" data-category="women">Women Perfume</button>
+            <button class="tab-button" data-category="men and women">Unisex</button>
+            <div class="wishlist-icon" id="wishlist-icon">
+                <i class="fa-solid fa-heart"></i> <span id="wishlist-count">0</span>
+            </div>
+            <div class="cart-icon" id="cart-icon">
+                <i class="fa-solid fa-cart-shopping"></i> <span id="cart-count">0</span>
+            </div>
+        </div>
+        
+        <!-- Cart Modal -->
+        <div id="cart-modal" class="cart-modal hidden">
+            <div class="cart-modal-content">
+                <span class="close-cart">&times;</span>
+                <h2 class="cart-title">Your Cart</h2>
+                <div id="cart-items" class="cart-items">
+                    <p class="empty-cart-message">Your cart is empty.</p>
+                </div>
+                <div id="cart-total" class="cart-total">
+                    <p class="total-text">Total: <span class="total-amount">$0.00</span></p>
+                    <button class="checkout-button">Checkout</button>
+                </div>
+            </div>
+        </div>
+        <div class="search-bar">
+            <input type="text" id="search" placeholder="Search products...">
+        </div>
+        
+        <section class="product-grid" id="product-grid">
+            <!-- Products will be dynamically loaded here -->
+        </section>
+        
+    </main>
+
+<!-- Product Details Modal -->
+<div id="product-modal" class="modal">
+    <div class="modal-content">
+        <span class="close">&times;</span>
+        <img id="modal-image" src="" alt="Product Image">
+        <h2 id="modal-name"></h2>
+        <p id="modal-description"></p>
+        <p id="modal-price"></p>
+        <p id="modal-rating"></p>
+    </div>
+</div>
+
+<footer>
+    <div class="container2">
+        <p>&copy; 2025 Eau de Imad. Embracing the Essence of Elegance.</p>
+        <ul class="social-links">
+            <li>
+                <a href="https://www.facebook.com/emad.swity.5/" target="_blank" aria-label="Facebook">
+                    <i class="fa-brands fa-facebook"></i> Facebook
+                </a>
+            </li>
+            <li>
+                <a href="https://www.instagram.com/emad._.yaco04/" target="_blank" aria-label="Instagram">
+                    <i class="fa-brands fa-instagram"></i> Instagram
+                </a>
+            </li>
+            <li>
+                <a href="https://github.com/ImadSwaitti" target="_blank" aria-label="GitHub">
+                    <i class="fa-brands fa-github"></i> GitHub
+                </a>
+            </li>
+        </ul>
+    </div>
+</footer>
+
+    <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,228 @@
+[
+    {
+        "name": "Savage",
+        "description": " A raw and untamed fragrance with fresh citrus, spicy notes, and a rugged woody base.",
+        "price": "$109,99",
+        "image": "photos/2.png",
+        "category": "men",
+        "rating": 5
+    },
+    {
+        "name": "YOU Intensely",
+        "description": "A bold blend of woods, spice, and warm amber.",
+        "price": "$122.49",
+        "image": "photos/3.png",
+        "category": "men",
+        "rating": 4.6
+    },
+    {
+        "name": "YOU Absolutely",
+        "description": "A rich, elegant blend of fruity notes, soft florals, and a creamy musk finish.",
+        "price": "$122.49",
+        "image": "photos/4.png",
+        "category": "men",
+        "rating": 4.5
+    },
+    {
+        "name": "YOU Gold",
+        "description": "A radiant blend of warm amber, soft florals, and a touch of sweet vanilla.",
+        "price": "$122.49",
+        "image": "photos/5.png",
+        "category": "men",
+        "rating": 4.7
+    },
+    {
+        "name": "YOU Oud",
+        "description": "A luxurious fusion of smoky oud, rich spices, and a hint of velvety amber.",
+        "price": "$122,49",
+        "image": "photos/6.png",
+        "category": "men",
+        "rating": 4.4
+    },
+    {
+        "name": "YOU Only",
+        "description": " A delicate harmony of fresh citrus, soft florals, and a gentle musk undertone.",
+        "price": "$122,49",
+        "image": "photos/7.png",
+        "category": "men",
+        "rating": 4.2
+    },
+    {
+        "name": "THOMAS KOSMALA N.4",
+        "description": "A captivating blend of warm amber, creamy vanilla, and a touch of musk, exuding effortless sophistication.",
+        "price": "$95.90",
+        "image": "photos/8.png",
+        "category": "men",
+        "rating": 4.1
+    },
+    {
+        "name": "THOMAS KOSMALA N.10",
+        "description": "A bold and vibrant fusion of citrus, spicy woods, and deep musk, leaving a dynamic, lasting impression.",
+        "price": "$115.08",
+        "image": "photos/9.png",
+        "category": "men",
+        "rating": 4.6
+    },
+    {
+        "name": "TOM FORD WHITE SUEDE",
+        "description": "A luxurious blend of musk, warm amber, and velvety suede, softened with delicate floral notes.",
+        "price": "$121.89",
+        "image": "photos/10.png",
+        "category": "men and women",
+        "rating": 4.4
+    },
+    {
+        "name": "TOM FORD CAFE ROSE",
+        "description": "A seductive blend of rich coffee, dark rose, and warm spices, layered with smoky oud and patchouli.",
+        "price": "$159.90",
+        "image": "photos/11.png",
+        "category": "men and women",
+        "rating": 5
+    },
+    {
+        "name": "TOM FORD LAVENDER EX",
+        "description": "Tom Ford Lavender Extreme: A bold reimagining of lavender, intensified with bright citrus, warm tonka bean, and deep woody undertones.",
+        "price": "$126.98",
+        "image": "photos/12.png",
+        "category": "men and women",
+        "rating": 4.1
+    },
+    {
+        "name": "TOM FORD COSTA AZZ",
+        "description": "Tom Ford Costa Azzurra: A fresh, coastal blend of crisp citrus, aromatic herbs, and warm woods, evoking a Mediterranean escape.",
+        "price": "$129.38",
+        "image": "photos/13.png",
+        "category": "men and women",
+        "rating": 4.0
+    },
+    {
+        "name": "BlEU DE CHANNEL 1",
+        "description": "Bleu de Chanel Parfum: A refined blend of woody cedar, warm amber, and aromatic freshness, embodying timeless elegance and sophistication.",
+        "price": "$183.32",
+        "image": "photos/14.png",
+        "category": "men ",
+        "rating": 4.6
+    },
+    {
+        "name": "BlEU DE CHANNEL 2",
+        "description": "Bleu de Chanel Eau de Parfum: A sophisticated fusion of woody amber, fresh citrus, and aromatic notes, exuding depth and refinement.",
+        "price": "$157.00",
+        "image": "photos/15.png",
+        "category": "men",
+        "rating": 4.5
+    },
+    {
+        "name": "Jean Paul Gaultier 1",
+        "description": "Jean Paul Gaultier Le Male Elixir: A bold and sensual blend of rich vanilla, spicy amber, and aromatic lavender, intensified with a smoky undertone.",
+        "price": "$152.00",
+        "image": "photos/16.png",
+        "category": "men",
+        "rating": 4.7
+    },
+    {
+        "name": "Jean Paul Gaultier 2",
+        "description": "Jean Paul Gaultier Le Beau Le Parfum: A seductive mix of creamy tonka bean, fresh coconut, and warm amber, wrapped in an aromatic woody base.",
+        "price": "$102.49",
+        "image": "photos/17.png",
+        "category": "men",
+        "rating": 4.5
+    },
+    {
+        "name": "Jean Paul Gaultier 3",
+        "description": "Jean Paul Gaultier Le Beau: A fresh and seductive blend of crisp bergamot, creamy coconut, and sensual tonka bean on a woody base.",
+        "price": "$93.54",
+        "image": "photos/18.png",
+        "category": "men",
+        "rating": 4.4
+    },
+    {
+        "name": "Jean Paul Gaultier 4",
+        "description": "Jean Paul Gaultier Le Beau Paradise Garden: A vibrant blend of juicy pear, lush green notes, and creamy tonka bean, evoking a tropical escape.",
+        "price": "$124.95",
+        "image": "photos/19.png",
+        "category": "men",
+        "rating": 4.5
+    },
+    {
+        "name": "Jean Paul Gaultier 5",
+        "description": "Jean Paul Gaultier Le Male Eau de Parfum: A captivating blend of spicy cardamom, aromatic lavender, and warm vanilla, enveloped in sensual woods.",
+        "price": "$121.45",
+        "image": "photos/20.png",
+        "category": "men",
+        "rating": 4.5
+    },
+    {
+        "name": "Carolina Herrera 1",
+        "description": "Carolina Herrera Good Girl New York Swarovski Limited Edition: A dazzling blend of sweet jasmine, rich tonka bean, and creamy cocoa, housed in a sparkling Swarovski-studded stiletto.",
+        "price": "$130.00",
+        "image": "photos/21.png",
+        "category": "women",
+        "rating": 4.8
+    },
+    {
+        "name": "Carolina Herrera 2",
+        "description": "Carolina Herrera Very Good Girl Glam Eau de Parfum: A bold and sparkling blend of juicy cherry, elegant rose, and warm almond, finished with a touch of vibrant vetiver.",
+        "price": "$106.45",
+        "image": "photos/22.png",
+        "category": "women",
+        "rating": 4.5
+    },
+    {
+        "name": "Carolina Herrera 3",
+        "description": "Carolina Herrera Very Good Girl Eau de Parfum: A captivating blend of tangy red currant, romantic rose, and warm vanilla, exuding modern elegance.",
+        "price": "$107.87",
+        "image": "photos/23.png",
+        "category": "women",
+        "rating": 4.7
+    },
+    {
+        "name": "Carolina Herrera 4",
+        "description": "Carolina Herrera Good Girl Supreme Eau de Parfum: A daring blend of juicy berries, seductive jasmine, and creamy tonka bean, with a bold touch of vetiver.",
+        "price": "$108.46",
+        "image": "photos/24.png",
+        "category": "women",
+        "rating": 4.7
+    },
+    {
+        "name": "Carolina Herrera 5",
+        "description": "Carolina Herrera Good Girl Fantastic Pink: A glamorous blend of sweet jasmine, rich tonka bean, and creamy cocoa, wrapped in a sparkling pink stiletto-shaped bottle.",
+        "price": "$118.45",
+        "image": "photos/25.png",
+        "category": "women",
+        "rating": 4.6
+    },
+    {
+        "name": "Dolce & Gabbana",
+        "description": "Dolce & Gabbana Devotion: A captivating blend of candied citrus, fresh orange blossom, and warm vanilla, symbolizing universal love in a stunning Sacred Heart bottle.",
+        "price": "$159.45",
+        "image": "photos/26.png",
+        "category": "women",
+        "rating": 4.7
+    },
+    {
+        "name": "So Scandal Gaultier",
+        "description": "So Scandal! by Jean Paul Gaultier: A bold and seductive blend of juicy raspberry, creamy tuberose, and sweet jasmine, with a touch of milky warmth.",
+        "price": "$80.39",
+        "image": "photos/27.png",
+        "category": "women",
+        "rating": 4.1
+    },
+    {
+        "name": "Scandal Gaultier",
+        "description": "Scandal by Jean Paul Gaultier: A daring blend of sweet honey, seductive gardenia, and warm patchouli, exuding bold femininity.",
+        "price": "$80.15",
+        "image": "photos/28.png",
+        "category": "women",
+        "rating": 4.5
+    },
+    {
+        "name": "ARVEA NATURE",
+        "description": "ARVEA Nature Girl: A fresh, fruity-floral blend of mandarin, magnolia, and musk, perfect for vibrant and adventurous women.",
+        "price": "$110.45",
+        "image": "photos/29.png",
+        "category": "women",
+        "rating": 4.9
+    }
+    
+]
+
