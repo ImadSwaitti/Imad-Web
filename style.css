@@ -1149,7 +1149,11 @@ color : #f1c40f;
         font-size: 1rem;
         margin-top: 10%;
     }
-
+ .head {
+        background: url('photos/1.png') no-repeat center center fixed;
+        background-size: cover;
+        width: 100%;
+    }
     .perfume-grid {
         grid-template-columns: 1fr; /* Single column for products */
         gap: 15px;
